@@ -78,7 +78,7 @@ categories:
       - name: 'jeengbe/spiffe'
         type: community
         weight: 600
-        link: https://github.com/jeengbe/ts-packages/tree/master/packages/spiffe
+        link: https://www.npmjs.com/package/@jeengbe/spiffe
         description: SPIFFE SDK for TypeScript.
 
   - name: Deployment & Workload Helpers

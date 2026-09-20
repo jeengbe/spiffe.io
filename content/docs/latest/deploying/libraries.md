@@ -57,6 +57,6 @@ These libraries are not part of the official SPIFFE repository.
 
 # TypeScript/JavaScript
 
-See [`@jeengbe/spiffe`](https://github.com/jeengbe/ts-packages/tree/master/packages/spiffe#readme) for a TypeScript implementation.
+See [`@jeengbe/spiffe`](https://www.npmjs.com/package/@jeengbe/spiffe) for a TypeScript implementation.
 
 {{< scarf/pixels/high-interest >}}
